@@ -7,7 +7,7 @@ export function sendData(Latitude, Longitude) {
       Latitude: Latitude,
       Longitude: Longitude,
     })
-    .then(data => {
+    .then(() => {
       console.log('locations added!');
     });
 }

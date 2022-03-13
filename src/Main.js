@@ -7,7 +7,7 @@ import RNLocation from 'react-native-location';
 import sendData from './Firestore';
 
 RNLocation.configure({
-  distanceFilter: 100, // Meters
+  distanceFilter: 10, // Meters
   desiredAccuracy: {
     ios: 'best',
     android: 'balancedPowerAccuracy',
@@ -36,7 +36,7 @@ const Main = () => {
         {
           title: 'Backgraund location access',
           message: 'we need to use location',
-          buttonNeutral: 'maybe',
+          buttonNeutral: 'Later',
           buttonNegative: 'no',
           buttonPositive: 'yes',
         },
