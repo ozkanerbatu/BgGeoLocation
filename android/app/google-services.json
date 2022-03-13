@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959173820789",
+    "project_id": "bglocation-3d88b",
+    "storage_bucket": "bglocation-3d88b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959173820789:android:b1ff51ff9586ceaa6fd33c",
+        "android_client_info": {
+          "package_name": "com.bggeolocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959173820789-v54c512lhmlo1nl1e6msil9t6cqjrofa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXLNkanJakOQaqZe61ZzNgbtEwLr-QM-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959173820789-v54c512lhmlo1nl1e6msil9t6cqjrofa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
