@@ -25,6 +25,7 @@ RNLocation.configure({
   pausesLocationUpdatesAutomatically: false,
   showsBackgroundLocationIndicator: false,
 });
+
 let locationSubscription = null;
 let locationTimeout = null;
 
